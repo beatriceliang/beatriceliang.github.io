@@ -21,7 +21,7 @@ body{
 
 .school{
 	overflow: hidden;
-    padding: 5px; 
+    padding: 5px;
 }
 .school img {
     margin-right: 15px;
@@ -41,10 +41,10 @@ body{
     padding: 5px;
 }
 
-.institution img {
+/*.institution img {
     margin-right: 15px;
     height: 90px;
     width: 90px;
     float: left;
 }
-
+*/
