@@ -1,0 +1,26 @@
+.jumbotron{
+  /*background-image: url('images/sunset.png');*/
+  /*background-size: cover;*/
+  background-color: #FFF;
+  font-family: 'Raleway';
+}
+
+.row{
+  margin-top: 1rem;
+  font-family: 'Raleway';
+}
+
+.btn{
+  background: none;
+  border-color: #000;
+}
+
+.btn:hover{
+  background: none;
+  border-color: #FFF;
+}
+
+.col{
+  border-color: #000;
+  border: 1px solid;
+}
