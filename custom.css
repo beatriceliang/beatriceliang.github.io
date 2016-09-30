@@ -19,12 +19,6 @@
   border-color: #FFF;
 }
 
-.col*{
-  border-color: #000;
-  border: 1px solid;
-  background-color: #EEE;
-
-}
 body {
     padding-bottom: 10em;
 }
