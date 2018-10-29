@@ -1,0 +1,22 @@
+
+.jumbotron{
+  /*background-image: url('images/sunset.png');*/
+  /* background-size: cover; */
+  background-color: #ffb5a0;
+  color: white;
+  font-family: 'Raleway'
+}
+
+.btn{
+  background: #FFF;
+  border-color: #FFF;
+}
+
+.btn:hover{
+  background: none;
+  border-color: none;
+}
+
+body {
+    padding-bottom: 10em;
+}
